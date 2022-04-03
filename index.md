@@ -1,7 +1,7 @@
 # Harald Kuske
 ## Vita
 
-![Image](https://avatars.githubusercontent.com/u/40488470)
+![Image](https://avatars.githubusercontent.com/u/40488470?s=200)
 
 My name is **Harald Kuske**.
 
