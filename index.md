@@ -1,10 +1,10 @@
 # Harald Kuske
 ## Vita
-My name is **Harald Kuske**. </br>
-I was born in 1958 and studied Computer Science at the Untiversität ders Saarlandes in Saarbrücken from 1978 to 1983. </br>
-Since 1983 I was working for different Companies in different areas of Computer Science.</br>
-I'm co-author of patents in telecommunication technologgy.</br>
-My destiny is exceptional computer science.</br>
+My name is **Harald Kuske**. </br >
+I was born in 1958 and studied Computer Science at the Untiversität ders Saarlandes in Saarbrücken from 1978 to 1983. </br >
+Since 1983 I was working for different Companies in different areas of Computer Science.</br >
+I'm co-author of patents in telecommunication technologgy.</br >
+My destiny is exceptional computer science.
 
 
 
