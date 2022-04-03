@@ -1,14 +1,15 @@
-# Welcome to my personal GitHub Website
+# Harald Kuske
+## Vita
 My name is **Harald Kuske**. </br>
 I was born in 1958 and studied Computer Science at the Untiversität ders Saarlandes in Saarbrücken from 1978 to 1983. </br>
 Since 1983 I was working for different Companies in different areas of Computer Science.</br>
 I'm co-author of patents in telecommunication technologgy.</br>
 My destiny is exceptional computer science.</br>
 
-# GitHub Help
 
-## Welcome to GitHub Pages
 
+
+## GitHub Help
 You can use the [editor on GitHub](https://github.com/haraldkuske/haraldkuske.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
